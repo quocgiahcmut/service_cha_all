@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32414.318
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImmWorkerService", "ImmWorkerService\ImmWorkerService.csproj", "{2FCC7CAC-85A9-4603-AE65-8A08177CC438}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImmConsoleListener", "ImmConsoleListener\ImmConsoleListener.csproj", "{B82E400A-A8EF-4F2F-9B68-FCD5D4FBA2CE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2FCC7CAC-85A9-4603-AE65-8A08177CC438}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2FCC7CAC-85A9-4603-AE65-8A08177CC438}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2FCC7CAC-85A9-4603-AE65-8A08177CC438}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2FCC7CAC-85A9-4603-AE65-8A08177CC438}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B82E400A-A8EF-4F2F-9B68-FCD5D4FBA2CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B82E400A-A8EF-4F2F-9B68-FCD5D4FBA2CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B82E400A-A8EF-4F2F-9B68-FCD5D4FBA2CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B82E400A-A8EF-4F2F-9B68-FCD5D4FBA2CE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A6C53C27-82A6-4DEE-9E02-0594F3A38141}
+	EndGlobalSection
+EndGlobal
